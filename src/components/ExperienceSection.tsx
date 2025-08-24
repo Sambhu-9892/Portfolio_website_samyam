@@ -22,11 +22,11 @@ export const ExperienceSection = () => {
     },
     {
       type: 'work',
-      title: 'Cybersecurity Intern',
+      title: 'DevOps Intern',
       organization: 'Tech Company',
-      period: 'Summer 2022',
+      period: 'November 2024 - Present',
       description:
-        'Assisted in vulnerability assessments, security audits, and implementing security measures for web applications.',
+        'Assisted in Maintainig the ',
       icon: <Briefcase className="text-cyan-500" size={24} />,
     },
     {
