@@ -24,7 +24,7 @@ export const SkillsSection = () => {
   }, {
     title: 'System Administration',
     icon: <Terminal className="text-cyan-500" size={28} />,
-    skills: ['Linux', 'Apache', 'Docker', 'Cron Jobs', 'Shell Scripting']
+    skills: ['Linux', 'Apache', 'Docker', 'Cron Jobs', 'Shell Scripting', 'Zenkins']
   }];
   return <section id="skills" className="py-20 bg-gray-900">
       <div className="container mx-auto px-4">
